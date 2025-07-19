@@ -25,11 +25,9 @@ const FaqItem = ({ faq }) => {
                 </div>
             </div>
 
-            <SlideDown>
-                {activeId === id && (
-                    <div className="realtive z-2 body-3 px-7 py-3.5">{answer}</div>
-                )}
-            </SlideDown>
+            <div className={clsx("realtive z-2 px-7 duration-500 h-0 py-0 overflow-hidden", activeEL && "h-auto py-4.5")}>
+                <p className={clsx("body-3 duration-400 translate-y-full", activeEL && "translate-y-0!")}>{answer}</p>
+            </div>
         </div>
     );
 };
