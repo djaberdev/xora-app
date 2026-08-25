@@ -28,7 +28,7 @@
 <br />
 
 <!-- Project Overview & Desc.. -->
-## About **XORA**
+## 📝&nbsp; About **XORA**
 ⇨ Modern SaaS App `Landing Page` designed to present a digital product through a clean and engaging interface, with a strong focus on **UI/UX**, **responsiveness**, and **smooth interactions**.
 
 ◈ `Fully Responsive` → Ensures flawless Responsiveness across all devices and screen sizes.
@@ -45,7 +45,7 @@
 
 <br />
 
-## 🎬 Demo & Showcase
+## 🎬&nbsp; Demo & Showcase
 
 <details>
   <summary><strong>Desktop</strong></summary>
@@ -67,7 +67,7 @@
 
   <img
     src="./showcase/tablet.png"
-    width="100%"
+    width="80%"
     alt="Xora Tablet Preview"
   />
 
@@ -80,8 +80,20 @@
 
   <img
     src="./showcase/mobile.png"
-    width="100%"
+    width="40%"
     alt="Xora Mobile Preview"
   />
 
 </details>
+
+<br />
+
+## 🧠&nbsp; What I Learned 
+
+① `React-Scroll` → Powerful React library used for creating **Seamless Navigation Systems**.
+
+② `Master ::before & ::after` → Let me build complex layout concerning: **Glow Layers, Lines & Connects,...** 
+
+③ `Master Complex Gradients` → Let me engage the design blocks and **Go beyond a flat-solid Color.**
+
+④ `Complex Responsiveness Handle` → Keeping the Design that full with: Lines, Glows and Gradients,... **Clean on every screen size.**
