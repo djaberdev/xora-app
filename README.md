@@ -43,3 +43,45 @@
 
 ◈ `Smooth Animations` → Complex CSS for fluid animations and eye-catching effects.
 
+<br />
+
+## 🎬 Demo & Showcase
+
+<details>
+  <summary><strong>Desktop</strong></summary>
+
+  <br />
+
+  <img
+    src="./showcase/desktop.png"
+    width="100%"
+    alt="Xora Desktop Preview"
+  />
+
+</details>
+
+<details>
+  <summary><strong>Tablet</strong></summary>
+
+  <br />
+
+  <img
+    src="./showcase/tablet.png"
+    width="100%"
+    alt="Xora Tablet Preview"
+  />
+
+</details>
+
+<details>
+  <summary><strong>Mobile</strong></summary>
+
+  <br />
+
+  <img
+    src="./showcase/mobile.png"
+    width="100%"
+    alt="Xora Mobile Preview"
+  />
+
+</details>
