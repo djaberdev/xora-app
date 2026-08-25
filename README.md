@@ -23,3 +23,23 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Type-SaaS%20Landing%20Page-1a2865?style=for-the-badge" alt="Project Type" />
 </p>
+
+<br />
+<br />
+
+<!-- Project Overview & Desc.. -->
+## About **XORA**
+⇨ Modern SaaS App `Landing Page` designed to present a digital product through a clean and engaging interface, with a strong focus on **UI/UX**, **responsiveness**, and **smooth interactions**.
+
+◈ `Fully Responsive` → Ensures flawless Responsiveness across all devices and screen sizes.
+
+◈ `Stunning Sections` → Hero, Features, Pricing (monthly/yearly), FAQ, Testimonials, Download software and Contact.
+
+◈ `Seamless Navigation` → Offers a smooth User Experience with easy navigation and scrolling.
+
+◈ `Optimized Performance` → Built for fast loading and an optimized experience.
+
+◈ `Cool CSS Gradients and Shapes` → Beautiful gradient effects using CSS `::before` and `::after` pseudo-elements.
+
+◈ `Smooth Animations` → Complex CSS for fluid animations and eye-catching effects.
+
