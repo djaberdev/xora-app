@@ -35,7 +35,7 @@
 
 ◈ `Stunning Sections` → Hero, Features, Pricing (monthly/yearly), FAQ, Testimonials, Download software and Contact.
 
-◈ `Seamless Navigation` → Offers a smooth User Experience with easy navigation and scrolling.
+◈ `Seamless Navigation` → Offers a smooth User Experience with easy navigation and scrolling UI funcionality.
 
 ◈ `Optimized Performance` → Built for fast loading and an optimized experience.
 
