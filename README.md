@@ -47,6 +47,8 @@
 
 ## 🎬&nbsp; Demo & Showcase
 
+https://github.com/user-attachments/assets/5b645105-da69-4538-a13b-184e0e762d4d
+
 <details>
   <summary><strong>Desktop</strong></summary>
 
